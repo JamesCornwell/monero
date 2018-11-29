@@ -1,14 +1,14 @@
-# Monero
+# CatalystCT
 
-Copyright (c) 2014-2018 The Monero Project.   
-Portions Copyright (c) 2012-2013 The Cryptonote developers.
+Copyright (c) 2018 The CatalystCT Project.   
+Portions Copyright (c) 2014-2018 The Monero Project and 2012-2013 The Cryptonote developers.
 
 ## Development resources
 
-- Web: [getmonero.org](https://getmonero.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
+- Web: [http://www.cryptocatalyst.net](https://getmonero.org)
+- Discord: [https://discordapp.com/invite/TfvEcPh](https://forum.getmonero.org)
 - Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
-- GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
+- GitHub: [https://github.com/Menutra/CatalystCT](https://github.com/monero-project/monero)
 - IRC: [#monero-dev on Freenode](https://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
 
 ## Vulnerability response
